@@ -5,6 +5,8 @@
 
 ## 1、登录页
 
+[![Join the chat at https://gitter.im/forILMATAR/ILMATAR](https://badges.gitter.im/forILMATAR/ILMATAR.svg)](https://gitter.im/forILMATAR/ILMATAR?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![登录页](https://github.com/zfowed/charooms-html/raw/master/screenshots/login.jpg)
 
 ## 2、首页
