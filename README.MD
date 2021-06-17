@@ -1,19 +1,16 @@
-# Chat room UI
-###### tags: `UI` `Chat room`
 
-本練習：Web Chat room，聊天室 
-學習 LINE,FB 等網站對話聊天的UI設計。
+该套模板是在N年以前在学校写的，代表了当年的自己最高水准了[捂脸]，支持响应式，使用了 `bootstrap` 框架。
 
-### Github 練習
-[UI_Web_Chat](https://github.com/capeta0507/UI_Web_Chat)
+[预览](https://zfowed.github.io/charooms-html/login.html)
 
-### 參考範例 (桌面版、手機版)
-![](https://i.imgur.com/oc0wwn4.png)
-![](https://i.imgur.com/HS2CxvU.png)
+## 1、登录页
 
+![登录页](https://github.com/zfowed/charooms-html/raw/master/screenshots/login.jpg)
 
+## 2、首页
 
-### 教學
-1. [How to build a Chat Application in under 10 minutes](https://www.youtube.com/watch?v=f8el0g_rXbY)
-2. [React JS - Building a Chat UI in 2020](https://www.youtube.com/watch?v=vu2gxHGgWIs&list=PLsS7rcLJIvNNdHIVlAquwok7G59uqNmfP)
-3. [How To Make Message Box Using HTML And CSS | Messenger Design In HTML CSS](https://www.youtube.com/watch?v=EW9I1HqaKwk)
+![首页](https://github.com/zfowed/charooms-html/raw/master/screenshots/index.jpg)
+
+## 3、聊天室页
+
+![聊天室页](https://github.com/zfowed/charooms-html/raw/master/screenshots/room.jpg)
